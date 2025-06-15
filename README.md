@@ -2,7 +2,7 @@
 
 An extension for automatically selling your pets or removing them from sale. Made by Chai69.
 
-## Installation Instructions
+## Installation Instructions (Chrome)
 
 To install the extension in your browser, follow these steps:
 
@@ -12,6 +12,8 @@ To install the extension in your browser, follow these steps:
 4. **Enable Developer Mode**: Toggle the "Developer mode" switch located in the top right corner of the page.
 5. **Load Unpacked Extension**: Click on the "Load unpacked" button and select the folder where your extension files are stored.
 6. **Confirm Installation**: Once loaded, you should see the extension icon appear in your toolbar.
+
+If you have a different browser, just google "How to install a custom extension in your browser."
 
 ## Usage Instructions
 
