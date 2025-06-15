@@ -23,6 +23,11 @@ If you have a different browser, just google "How to install a custom extension 
 
 3. **Remove All Listings**: Press the "Remove All" button to take down all pets that are currently listed for sale. It is also recommended to keep the tab open during this process to ensure it completes successfully.
 
+## Informations
+
+Discord: notchai69
+Telegram: [@notchai69](https://t.me/notchai69)
+
 ---
 
 Feel free to reach out if you have any questions or need further assistance!
