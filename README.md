@@ -6,7 +6,7 @@ An extension for automatically selling your pets or removing them from sale. Mad
 
 To install the extension in your browser, follow these steps:
 
-1. **Download the extension files**: Ensure you have all the necessary files for the extension saved on your computer.
+1. **Download the extension files**: Download from [here](https://github.com/notChai69/DreamTool/releases/download/DreamTool/DreamTool.zip) and unpack zip-file.
 2. **Open Chrome**: Launch the Google Chrome browser.
 3. **Access the Extensions Page**: Navigate to chrome://extensions/ in the address bar.
 4. **Enable Developer Mode**: Toggle the "Developer mode" switch located in the top right corner of the page.
@@ -17,7 +17,9 @@ If you have a different browser, just google "How to install a custom extension 
 
 ## Usage Instructions
 
-1. **Enter Your Key**: Input the key that you can purchase [here](LINK). After entering the key, you will gain full access to the extension. Please note that if you remove the extension, the key will become invalid!
+1. **Buy Key**: 
+
+1. **Enter Your Key**: Input the key. After entering the key, you will gain full access to the extension. Please note that if you remove the extension, the key will become invalid!
    
 2. **Sell All Pets**: Click on the "Sell All" button to start selling your entire inventory. Make sure not to close the tab while the script is running to avoid interrupting the process.
 
