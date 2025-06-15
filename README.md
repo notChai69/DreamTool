@@ -25,7 +25,7 @@ If you have a different browser, just google "How to install a custom extension 
 
 ## Informations
 
-Discord: notchai69
+Discord: notchai69\n
 Telegram: [@notchai69](https://t.me/notchai69)
 
 ---
